@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "3514faf8-a94f-490d-8290-78346d922792",
+        "filament_name": "[extrudr] PLA 1.75mm"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "extrudr",
+        "filament_density": 1240,
+        "filament_diameter": 1.75,
+        "filament_display_name": "[extrudr] PLA 1.75mm",
+        "filament_flowrate": 100,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "PLA",
+        "filament_notes": "",
+        "filament_price": 26
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}
