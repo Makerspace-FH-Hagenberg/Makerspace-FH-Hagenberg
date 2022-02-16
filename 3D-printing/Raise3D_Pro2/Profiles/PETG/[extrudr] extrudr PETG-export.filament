@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "f4baeff0-1390-4ef7-ad83-3a889c711a3a",
+        "filament_name": "[extrudr] extrudr PETG"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "extrudr",
+        "filament_density": 1270,
+        "filament_diameter": 1.75,
+        "filament_display_name": "[extrudr] extrudr PETG 1.75mm",
+        "filament_flowrate": 98,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "PETG",
+        "filament_notes": "",
+        "filament_price": 105
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}
