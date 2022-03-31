@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "12c25a48-114d-4917-b18b-2511aa1984e6",
+        "filament_name": "PolyFlex 1.75mm-copy"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "extrudr",
+        "filament_density": 1210,
+        "filament_diameter": 1.75,
+        "filament_display_name": "[extrudr] Flex Medium 1.75mm",
+        "filament_flowrate": 98,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "Flex Medium",
+        "filament_notes": "",
+        "filament_price": 76
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}
