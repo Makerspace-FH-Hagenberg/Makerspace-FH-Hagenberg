@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "06bedb6a-bb23-4607-8a33-5622ea408362",
+        "filament_name": "[extrudr] extrudr XPETG"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "extrudr",
+        "filament_density": 1270,
+        "filament_diameter": 1.75,
+        "filament_display_name": "[extrudr] extrudr XPETG 1.75mm",
+        "filament_flowrate": 98,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "XPETG",
+        "filament_notes": "",
+        "filament_price": 30
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}
